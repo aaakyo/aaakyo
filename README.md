@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I have experience in:
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
+
 <!--
 **aaakyo/aaakyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
